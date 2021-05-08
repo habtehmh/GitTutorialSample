@@ -10,6 +10,7 @@ namespace GitPractices
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testing git commands");
         }
     }
 }
