@@ -10,7 +10,8 @@ namespace GitPractices
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing git commands");
+            Console.WriteLine("Testing git commands - Test branche added!");
+            Console.WriteLine("I am form Test branche");
         }
     }
 }
